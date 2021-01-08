@@ -9,42 +9,42 @@ exports.view = function(req, res){
       {
         "name": "Waiting in line",
         "image": "lorempixel.people.1.jpeg",
-        "id": "1"
+        "id": "project1"
       },
       {
         'name': 'Needfinding',
         'image': 'lorempixel.city.1.jpeg',
-        'id': '2'
+        'id': 'project2'
       },
       {
         'name': 'Prototyping',
         'image': 'lorempixel.technics.1.jpeg',
-        'id': '3'
+        'id': 'project3'
       },
       {
         'name': 'Heuristic Evaluation',
         'image': 'lorempixel.abstract.1.jpeg',
-        'id': '4'
+        'id': 'project4'
       },
       {
         'name': 'Visualization',
         'image': 'lorempixel.abstract.8.jpeg',
-        'id': '5'
+        'id': 'project5'
       },
       {
         'name': 'Social design',
         'image': 'lorempixel.people.2.jpeg',
-        'id': '6'
+        'id': 'project6'
       },
       {
         'name': 'Gestural interaction',
         'image': 'lorempixel.technics.2.jpeg',
-        'id': '7'
+        'id': 'project7'
       },
       {
         'name': 'Design tools',
         'image': 'lorempixel.city.2.jpeg',
-        'id': '8'
+        'id': 'project8'
       },
 
         
